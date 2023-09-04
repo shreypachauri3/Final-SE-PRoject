@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65764612150",
+    "firebase_url": "https://traveler-food-default-rtdb.firebaseio.com",
+    "project_id": "traveler-food",
+    "storage_bucket": "traveler-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65764612150:android:972cb4feddc63f93bfe097",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65764612150-1r4aqn9k51bi0jo5nbaek8of0dnbcvjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktlHOKgklqqMdnrxj6r4BHk9kvjElECI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65764612150-1r4aqn9k51bi0jo5nbaek8of0dnbcvjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
